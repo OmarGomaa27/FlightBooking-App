@@ -1,4 +1,4 @@
-# flightbooking_12thproject
+# Flight Booking App project for college
 
 A new Flutter project.
 
